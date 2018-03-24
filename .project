@@ -3,7 +3,6 @@
 	<name>FirstThingsFirst</name>
 	<comment></comment>
 	<projects>
-		<project>GettingStarted</project>
 	</projects>
 	<buildSpec>
 	</buildSpec>
